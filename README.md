@@ -5,7 +5,7 @@ Anomaly detection, Poor lane mark detection, Identify drowsiness can be directly
 Anomaly detection is done on a jupyter notebook.
 
 Pothole and Collision detection exceeds size limit and was not uploaded on git. The link to the drive file is 
-: https://drive.google.com/open?id=1J-Gj8hHOoSg9VU9d6i092XqGtVfvdDz_
+: https://drive.google.com/file/d/1J-Gj8hHOoSg9VU9d6i092XqGtVfvdDz_/view
 
 Download the file from there.
 In order to for Pothole and collision detection to work you must first install Tensorflow and it's object detection api.
